@@ -16,6 +16,7 @@ Git
 Clone the Repository
 git clone https://github.com/anlam35705/LA2050.git
 cd LA2050
+
 Install Dependencies
 pip install -r requirements.txt
 
