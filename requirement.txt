@@ -1,0 +1,10 @@
+huggingface_hub==0.25.2
+langchain
+langchain-community
+langchain-chroma
+langchain-openai
+tenacity==8.5.0
+python-dotenv
+gradio
+jq
+rank_bm25
